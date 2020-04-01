@@ -1,3 +1,3 @@
 def parrot
-  print "Squawk! "
+  print "Squawk!"
 end
