@@ -1,5 +1,5 @@
 word="Pretty Bird"
 def parrot(word)
-  puts "Squawk!"
+  puts "word"
   word
 end
